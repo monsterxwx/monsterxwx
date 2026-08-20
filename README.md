@@ -5,7 +5,7 @@
 ![亮色](https://raw.githubusercontent.com/monsterxwx/monsterxwx/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-[个人博客](https://monsterwx.gitee.io/blog/)
+[个人博客](https://monsterxwx.github.io/blog/)
 
 ### 文章推荐
 
